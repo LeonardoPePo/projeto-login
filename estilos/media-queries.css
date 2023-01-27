@@ -4,7 +4,6 @@
 
     body{
         background-image: linear-gradient(to top, #49a09d, #532670);
-        height: 100vh;
     }
 
     section#login{
